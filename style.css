@@ -135,6 +135,7 @@ footer{
  /*! padding: 10px; */
  text-align: center;
  width: 33%;
+ padding-top: 10px;
  /*! flex-direction: row; */
 }
 .border1{
