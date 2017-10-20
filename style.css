@@ -68,7 +68,9 @@ header a:hover{
 /*Showcase*/
 #showcase{
  min-height: 400px;
- background: url('9.jpg') no-repeat 0 -400px; /*-400px moves it up on the y axis */
+ 
+  background: url('9.jpg') no-repeat ; /*-400px moves it up on the y axis */
+  background-size: cover;
 text-align: center;
  color: #ffffff;
 }
