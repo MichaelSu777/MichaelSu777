@@ -55,7 +55,10 @@ header a:hover{
  font-weight: bold;
 }
 /*Showcase*/
-
+#showcase{
+ min-height: 400px;
+ background: url('desktop-computer-typing.jpg') no-repeat;
+}
 
 
 
