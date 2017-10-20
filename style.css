@@ -122,8 +122,19 @@ footer{
  background-color: #e8491d;
  text-align: center;
 }
+
 #info{
- height: 40vh;
+ margin-top: 20px;
+}
+#info .box{
+ float: left; 
+ width: 30%;
+ padding: 10px;
+ text-align: center;
+}
+#info .box img{
+ width: 200px;
+ height: 200px;
 }
 /*media queries */
 @media(max-width: 768px){
