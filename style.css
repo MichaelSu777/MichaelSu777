@@ -137,6 +137,9 @@ footer{
  width: 33.333%;
  /*! flex-direction: row; */
 }
+.border1{
+ border-bottom: 1px solid #e2e2e2;
+}
 #info .box img{
  width: 200px;
  height: 200px;
