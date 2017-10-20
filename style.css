@@ -190,8 +190,12 @@ footer{
     display: block;
     text-align: center;
   }
+
  #info .box{
   width: auto;
+  
+ }
+  #info .box:not(:last-child){
    border-bottom: 1px solid #e2e2e2;
  }
 }
