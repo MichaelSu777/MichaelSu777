@@ -162,9 +162,5 @@ footer{
   }
 }
 @media(max-width: 480px){
- header nav li{
-  float: left;
- text-align: center;
-  width: 100%;
- }
+
 }
