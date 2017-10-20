@@ -183,6 +183,9 @@ footer{
     display: block;
     text-align: center;
   }
+ #info .box{
+  width: auto;
+ }
 }
 @media(max-width: 480px){
 #showcase h1{
