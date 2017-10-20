@@ -125,10 +125,10 @@ footer{
 
 #info{
  margin-top: 20px;
+ display: flex;
 }
 #info .box{
- float: left; 
- width: 30%;
+ 
  padding: 10px;
  text-align: center;
 }
