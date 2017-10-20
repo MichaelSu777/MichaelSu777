@@ -191,6 +191,7 @@ footer{
   }
  #info .box{
   width: auto;
+   border-bottom: 1px solid #e2e2e2;
  }
 }
 @media(max-width: 480px){
