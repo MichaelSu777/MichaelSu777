@@ -126,11 +126,16 @@ footer{
 #info{
  margin-top: 20px;
  display: flex;
+ flex-wrap: wrap;
+ /*! flex-direction: row; */
+ /*! width: 100%; */
 }
 #info .box{
- 
- padding: 10px;
+ /*! float: left; */ 
+ /*! padding: 10px; */
  text-align: center;
+ width: 33.333%;
+ /*! flex-direction: row; */
 }
 #info .box img{
  width: 200px;
