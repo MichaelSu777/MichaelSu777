@@ -24,6 +24,9 @@ ul{
  padding-right: 20px;
  color: #ffffff;
 }
+navbar .icon{
+ display: none;
+}
 /*Header */
 header{
  background: #35424a;
@@ -144,6 +147,7 @@ footer{
 }
 @media(max-width: 480px){
  header nav li{
+  float: left;
  text-align: center;
   width: 100%;
  }
