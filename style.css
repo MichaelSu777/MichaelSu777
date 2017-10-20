@@ -144,7 +144,7 @@ footer{
   width: 100%;
   margin-bottom: 5px;
  }
-   navbar li:not(:first-child) {display: none;}
+   header li {display: none;}
   .icon {
     float: right;
     display: block;
