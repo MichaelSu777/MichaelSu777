@@ -6,10 +6,19 @@
     <meta name="author" content="Michael Su">
     <title>Michael Su's github</title>
     <link rel="stylesheet" href="style.css">
-    
+    <script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
   </head>
   <body>
-    <header>
+    <header class="topnav" id="myTopnav">
       <div class="container">
         <div id="branding">
           <h1><span class="highlight">Michael</span> Su</h1>
