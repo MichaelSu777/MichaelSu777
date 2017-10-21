@@ -198,6 +198,9 @@ footer{
   #info .box:not(:last-child){
    border-bottom: 1px solid #e2e2e2;
  }
+ iframe{
+  height: auto;
+ }
 }
 @media(max-width: 480px){
 #showcase h1{
