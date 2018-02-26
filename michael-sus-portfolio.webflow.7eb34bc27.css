@@ -2587,6 +2587,9 @@ html.w-mod-js *[data-ix="spring-initial-0"] {
 }
 
 @media (max-width: 991px) {
+   .project-row-col{
+    width: 100%;  
+   }
   .splash-section {
     left: 0px;
     top: 0px;
