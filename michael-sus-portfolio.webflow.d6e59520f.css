@@ -3091,6 +3091,10 @@ html.w-mod-js *[data-ix="spring-initial-0"] {
 }
 
 @media (max-width: 479px) {
+     #pdf{
+    width: 50vw;
+    height: 50vh;
+  }
   .section {
     padding-right: 0px;
     padding-left: 0px;
